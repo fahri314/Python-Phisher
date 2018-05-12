@@ -3,4 +3,4 @@ The Python Phisher application sends a spoofed mail to the destination, allowing
 
 
 
-![](https://i.hizliresim.com/2E5PXj.png)
+![](https://github.com/fahri314/Python-Phisher/blob/master/2E5PXj.png)
